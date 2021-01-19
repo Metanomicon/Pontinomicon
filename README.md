@@ -1,5 +1,4 @@
-# microNomicon
-A minimal Nomicon
+# Pontinomicon
 
 1. The goal of the game is to create a learning organization
 1. All players must unanimously agree to all rule changes
