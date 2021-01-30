@@ -7,3 +7,20 @@
 1. The rules are maintained in the game [repository](https://github.com/Metanomicon/Pontinomicon)
 1. The rules are published on the game [website](https://metanomicon.github.io/Pontinomicon/)
 1. Players must submit proposals to change the rules through github pull requests
+
+
+## Conventions
+
+1. Lexical additions to the Vulcanomicon will take place as new pages under the `_lexicon` folder of [this GitHub Repository](https://github.com/Vulcan-Academy/Vulcanomicon). They will appear as [Markdown](https://en.wikipedia.org/wiki/Markdown) documents bearing a descriptive file name, and a header which abides by the following format (angle-bracketed sections are up for modification):
+    ```
+    ---
+    layout: post
+    title: <your title here>
+    description: <a sentence-long description of the lexeme here>
+    ---
+    <your lexeme description>
+    ```
+
+## Contents
+
+1. [Lexicon](Lexicon.md)
