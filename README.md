@@ -11,14 +11,14 @@
 
 ## Conventions
 
-1. Lexical additions to the Vulcanomicon will take place as new pages under the `_lexicon` folder of [this GitHub Repository](https://github.com/Vulcan-Academy/Vulcanomicon). They will appear as [Markdown](https://en.wikipedia.org/wiki/Markdown) documents bearing a descriptive file name, and a header which abides by the following format (angle-bracketed sections are up for modification):
+1. Lexical additions to the Pontinomicon will take place as new pages under the `_lexicon` folder of [this GitHub repository]({{ site.github.repository_url }}). They will appear as [Markdown](https://en.wikipedia.org/wiki/Markdown) documents bearing a descriptive file name, and a header which conforms to the following format (angle-bracketed sections are up for modification):
     ```
     ---
     layout: post
-    title: <your title here>
-    description: <a sentence-long description of the lexeme here>
+    title: <your term here>
+    description: <a sentence-long defintion of the term here>
     ---
-    <your lexeme description>
+    <optional term elaboration>
     ```
 
 ## Contents
