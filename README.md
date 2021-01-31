@@ -11,12 +11,12 @@
 
 ## Conventions
 
-1. Lexical additions to the Pontinomicon are added as new pages under the `_lexicon` folder of [this GitHub repository]({{ site.github.repository_url }}). They will appear as [Markdown](https://en.wikipedia.org/wiki/Markdown) documents bearing a descriptive file name, and a header which conforms to the following format (angle-bracketed sections are up for modification):
+1. Lexical additions to the Pontinomicon are added as new pages under the `_lexicon` folder of this [repository]({{ site.github.repository_url }}). They will appear as [Markdown](https://en.wikipedia.org/wiki/Markdown) documents bearing a descriptive file name, and a header which conforms to the following format (angle-bracketed sections are up for modification):
     ```
     ---
-    layout: post
-    title: <your term here>
-    description: <a sentence-long defintion of the term here>
+    layout: term
+    term: <your term here>
+    definition: <a sentence-long definition of the term here>
     ---
     <optional term elaboration>
     ```

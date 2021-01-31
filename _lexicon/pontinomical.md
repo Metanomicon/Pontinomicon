@@ -1,5 +1,5 @@
 ---
 layout: term
-title: pontinomical
-description: In the spirit of the Pontinomicon.
+term: pontinomical
+definition: In the spirit of the Pontinomicon.
 ---
