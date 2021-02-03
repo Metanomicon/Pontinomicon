@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+markdown: kramdown
+title: Pontinomicon
+description: A bridgey nomic
+permalink: /:collection/:title
+
+collections:
+  lexicon:
+    output: true

@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>{{ page.term }}</h1>
+<p class="meta">{{ page.definition | prepend: "> " | markdownify }}</p>
+<hr>
+
+<div class="term">
+  {{ content }}
+</div>
+
+Return to the <a href="{{ site.baseurl }}/Lexicon">Lexicon</a>

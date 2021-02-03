@@ -7,3 +7,20 @@
 1. The rules are maintained in the game [repository](https://github.com/Metanomicon/Pontinomicon)
 1. The rules are published on the game [website](https://metanomicon.github.io/Pontinomicon/)
 1. Players must submit proposals to change the rules through github pull requests
+
+
+## Conventions
+
+1. Lexical additions to the Pontinomicon are added as new pages under the `_lexicon` folder of this [repository]({{ site.github.repository_url }}). They will appear as [Markdown](https://en.wikipedia.org/wiki/Markdown) documents bearing a descriptive file name, and a header which conforms to the following format (angle-bracketed sections are up for modification):
+    ```
+    ---
+    layout: term
+    term: <your term here>
+    definition: <a sentence-long definition of the term here>
+    ---
+    <optional term elaboration>
+    ```
+
+## Contents
+
+1. [Lexicon](Lexicon.md)
