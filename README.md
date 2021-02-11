@@ -7,6 +7,7 @@
 1. The rules are maintained in the game [repository](https://github.com/Metanomicon/Pontinomicon)
 1. The rules are published on the game [website](https://metanomicon.github.io/Pontinomicon/)
 1. Players must submit proposals to change the rules through github pull requests
+1. A non-conformance record ([NCR](lexicon/NCR)) should be created whenever a player breaks the rules
 
 
 ## Conventions
