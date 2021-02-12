@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Player Roster
+```
+CODEOWNERS
 
 {% include_relative CODEOWNERS %}
-
+```
